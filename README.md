@@ -92,13 +92,3 @@ I'm a Back End Developer based in India , I am passionate about open-source, cod
 <br>
 <hr/>
 
-## ⚡ Recent GitHub Activity
-<a href="https://github.com/rock91"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rock91&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
-
-
-<hr/>
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
